@@ -21,5 +21,5 @@ class ave (animal):
          
          
          
-x= ave(2005,"luca","gato",12)
+x= ave(2005,"luca","PALOMA",12)
 x.printdatos()
